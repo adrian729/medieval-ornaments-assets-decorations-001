@@ -1,0 +1,1471 @@
+[
+  {
+    "name": "blue-acanthus-and-seed-head-panel",
+    "svg": "svg/blue-acanthus-and-seed-head-panel.svg",
+    "viewbox": [
+      0,
+      0,
+      41,
+      286
+    ],
+    "png": "png/blue-acanthus-and-seed-head-panel.png",
+    "webp": "webp/blue-acanthus-and-seed-head-panel.webp",
+    "width": 41,
+    "height": 286,
+    "png_bytes": 32574,
+    "webp_bytes": 23168,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/blue-acanthus-and-seed-head-panel.png",
+        "webp": "webp/128/blue-acanthus-and-seed-head-panel.webp",
+        "width": 18,
+        "height": 128,
+        "png_bytes": 7142,
+        "webp_bytes": 5540
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/blue-acanthus-and-seed-head-panel.png",
+        "webp": "webp/256/blue-acanthus-and-seed-head-panel.webp",
+        "width": 37,
+        "height": 256,
+        "png_bytes": 27246,
+        "webp_bytes": 19206
+      }
+    ],
+    "description": "A narrow blue acanthus strip with seed heads: two upright leaf groups above two inverted leaf groups on pale blue.",
+    "colors": [
+      "blue",
+      "light-blue"
+    ],
+    "subjects": [
+      "acanthus",
+      "leaf",
+      "seed-head"
+    ],
+    "categories": [
+      "botanical"
+    ],
+    "facing": "mixed",
+    "composition": "standalone",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "derivation": "source-crop-and-color-trace",
+    "reference": "blue-sheet",
+    "reference_design": 4,
+    "components": {
+      "reference_crop": {
+        "png": "png/blue-acanthus-and-seed-head-panel-reference.png",
+        "webp": "webp/blue-acanthus-and-seed-head-panel-reference.webp",
+        "width": 41,
+        "height": 286,
+        "png_bytes": 29197,
+        "webp_bytes": 23168,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/blue-acanthus-and-seed-head-panel-reference.png",
+            "webp": "webp/128/blue-acanthus-and-seed-head-panel-reference.webp",
+            "width": 18,
+            "height": 128,
+            "png_bytes": 7142,
+            "webp_bytes": 5540
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/blue-acanthus-and-seed-head-panel-reference.png",
+            "webp": "webp/256/blue-acanthus-and-seed-head-panel-reference.webp",
+            "width": 37,
+            "height": 256,
+            "png_bytes": 27246,
+            "webp_bytes": 19206
+          }
+        ]
+      }
+    },
+    "source_pattern": "Two consecutive upright leaf/seed-head motifs are followed by two inverted motifs, rather than a regular alternating repeat. The supplied strip ends in different leaf/seed-head phases. No source-supported complete seamless cycle is established; retain the whole decoration without a frame atlas.",
+    "source_canvas": {
+      "width": 41,
+      "height": 286
+    },
+    "master_longest_dimension_cap": 286,
+    "asset_type": "decoration",
+    "has_transparency": false,
+    "usage_notes": [
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "Opaque background is part of this image; it will cover the surface behind it.",
+      "PNG/WebP preserve the painted source appearance; SVG is an approximate trace. Check the reference crop and repeat audit for source limitations."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "butterfly-panel-red",
+    "png": "png/butterfly-panel-red.png",
+    "description": "A tall gold panel filled with butterflies, tiny blue flowers, and red acanthus finials at both ends.",
+    "categories": [
+      "animals",
+      "floral",
+      "botanical"
+    ],
+    "subjects": [
+      "butterfly",
+      "flower",
+      "acanthus",
+      "finial"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gold",
+      "green",
+      "blue",
+      "red",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "reference": "five-painted-panels",
+    "source_canvas": {
+      "width": 500,
+      "height": 650
+    },
+    "master_longest_dimension_cap": 650,
+    "webp": "webp/butterfly-panel-red.webp",
+    "width": 80,
+    "height": 650,
+    "png_bytes": 126789,
+    "webp_bytes": 96080,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/butterfly-panel-red.png",
+        "webp": "webp/128/butterfly-panel-red.webp",
+        "width": 16,
+        "height": 128,
+        "png_bytes": 5830,
+        "webp_bytes": 5714
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/butterfly-panel-red.png",
+        "webp": "webp/256/butterfly-panel-red.webp",
+        "width": 32,
+        "height": 256,
+        "png_bytes": 21963,
+        "webp_bytes": 18622
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/butterfly-panel-red.png",
+        "webp": "webp/512/butterfly-panel-red.webp",
+        "width": 63,
+        "height": 512,
+        "png_bytes": 81260,
+        "webp_bytes": 63656
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "derivation": "ai-assisted-extraction",
+    "components": {},
+    "asset_type": "decoration",
+    "has_transparency": true,
+    "usage_notes": [
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "floral-bird-panel-blue",
+    "png": "png/floral-bird-panel-blue.png",
+    "description": "A tall gold painted floral panel with white and pink roses, birds and butterflies, and bright blue acanthus finials at both ends.",
+    "categories": [
+      "floral",
+      "botanical",
+      "animals"
+    ],
+    "subjects": [
+      "flower",
+      "bird",
+      "butterfly",
+      "acanthus",
+      "finial"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gold",
+      "green",
+      "blue",
+      "red",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "reference": "five-painted-panels",
+    "source_canvas": {
+      "width": 500,
+      "height": 650
+    },
+    "master_longest_dimension_cap": 650,
+    "webp": "webp/floral-bird-panel-blue.webp",
+    "width": 86,
+    "height": 650,
+    "png_bytes": 133830,
+    "webp_bytes": 105460,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/floral-bird-panel-blue.png",
+        "webp": "webp/128/floral-bird-panel-blue.webp",
+        "width": 17,
+        "height": 128,
+        "png_bytes": 6440,
+        "webp_bytes": 6612
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/floral-bird-panel-blue.png",
+        "webp": "webp/256/floral-bird-panel-blue.webp",
+        "width": 34,
+        "height": 256,
+        "png_bytes": 23432,
+        "webp_bytes": 20562
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/floral-bird-panel-blue.png",
+        "webp": "webp/512/floral-bird-panel-blue.webp",
+        "width": 68,
+        "height": 512,
+        "png_bytes": 86959,
+        "webp_bytes": 71766
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "derivation": "ai-assisted-extraction",
+    "components": {},
+    "asset_type": "decoration",
+    "has_transparency": true,
+    "usage_notes": [
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "floral-bird-panel-left",
+    "png": "png/floral-bird-panel-left.png",
+    "description": "A tall gold painted panel with roses, blue and purple flowers, butterflies, small birds, and curled finials.",
+    "categories": [
+      "floral",
+      "botanical",
+      "animals"
+    ],
+    "subjects": [
+      "flower",
+      "bird",
+      "butterfly",
+      "finial"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gold",
+      "green",
+      "blue",
+      "red",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "reference": "five-painted-panels",
+    "source_canvas": {
+      "width": 500,
+      "height": 650
+    },
+    "master_longest_dimension_cap": 650,
+    "webp": "webp/floral-bird-panel-left.webp",
+    "width": 81,
+    "height": 650,
+    "png_bytes": 123771,
+    "webp_bytes": 96422,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/floral-bird-panel-left.png",
+        "webp": "webp/128/floral-bird-panel-left.webp",
+        "width": 16,
+        "height": 128,
+        "png_bytes": 5914,
+        "webp_bytes": 5908
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/floral-bird-panel-left.png",
+        "webp": "webp/256/floral-bird-panel-left.webp",
+        "width": 32,
+        "height": 256,
+        "png_bytes": 21245,
+        "webp_bytes": 21328
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/floral-bird-panel-left.png",
+        "webp": "webp/512/floral-bird-panel-left.webp",
+        "width": 64,
+        "height": 512,
+        "png_bytes": 79590,
+        "webp_bytes": 64198
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "derivation": "ai-assisted-extraction",
+    "components": {},
+    "asset_type": "decoration",
+    "has_transparency": true,
+    "usage_notes": [
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "floral-bird-panel-right",
+    "png": "png/floral-bird-panel-right.png",
+    "description": "A tall gold painted panel with roses, blue and pale flowers, butterflies, small birds, and rounded curled finials.",
+    "categories": [
+      "floral",
+      "botanical",
+      "animals"
+    ],
+    "subjects": [
+      "flower",
+      "bird",
+      "butterfly",
+      "finial"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gold",
+      "green",
+      "blue",
+      "red",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "reference": "five-painted-panels",
+    "source_canvas": {
+      "width": 500,
+      "height": 650
+    },
+    "master_longest_dimension_cap": 650,
+    "webp": "webp/floral-bird-panel-right.webp",
+    "width": 78,
+    "height": 650,
+    "png_bytes": 119689,
+    "webp_bytes": 94966,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/floral-bird-panel-right.png",
+        "webp": "webp/128/floral-bird-panel-right.webp",
+        "width": 15,
+        "height": 128,
+        "png_bytes": 5587,
+        "webp_bytes": 5626
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/floral-bird-panel-right.png",
+        "webp": "webp/256/floral-bird-panel-right.webp",
+        "width": 31,
+        "height": 256,
+        "png_bytes": 20767,
+        "webp_bytes": 21102
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/floral-bird-panel-right.png",
+        "webp": "webp/512/floral-bird-panel-right.webp",
+        "width": 61,
+        "height": 512,
+        "png_bytes": 75666,
+        "webp_bytes": 61728
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "derivation": "ai-assisted-extraction",
+    "components": {},
+    "asset_type": "decoration",
+    "has_transparency": true,
+    "usage_notes": [
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "gold-scroll-with-blue-bellflowers",
+    "svg": "svg/gold-scroll-with-blue-bellflowers.svg",
+    "viewbox": [
+      0,
+      0,
+      516,
+      107
+    ],
+    "png": "png/gold-scroll-with-blue-bellflowers.png",
+    "webp": "webp/gold-scroll-with-blue-bellflowers.webp",
+    "width": 516,
+    "height": 107,
+    "png_bytes": 100070,
+    "webp_bytes": 58286,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/gold-scroll-with-blue-bellflowers.png",
+        "webp": "webp/128/gold-scroll-with-blue-bellflowers.webp",
+        "width": 128,
+        "height": 27,
+        "png_bytes": 8414,
+        "webp_bytes": 5866
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/gold-scroll-with-blue-bellflowers.png",
+        "webp": "webp/256/gold-scroll-with-blue-bellflowers.webp",
+        "width": 256,
+        "height": 53,
+        "png_bytes": 29312,
+        "webp_bytes": 18282
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/gold-scroll-with-blue-bellflowers.png",
+        "webp": "webp/512/gold-scroll-with-blue-bellflowers.webp",
+        "width": 512,
+        "height": 106,
+        "png_bytes": 101152,
+        "webp_bytes": 60036
+      }
+    ],
+    "description": "A black outlined gold acanthus flourish with five blue bellflowers and distinct curled ends beneath a black rule on white.",
+    "colors": [
+      "gold",
+      "blue",
+      "black",
+      "white"
+    ],
+    "subjects": [
+      "acanthus",
+      "leaf",
+      "bellflower",
+      "scroll"
+    ],
+    "categories": [
+      "botanical",
+      "floral",
+      "scrollwork"
+    ],
+    "facing": "unclear",
+    "composition": "standalone",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "derivation": "source-crop-and-color-trace",
+    "reference": "drawn-vector-sheet",
+    "reference_design": 4,
+    "components": {
+      "reference_crop": {
+        "png": "png/gold-scroll-with-blue-bellflowers-reference.png",
+        "webp": "webp/gold-scroll-with-blue-bellflowers-reference.webp",
+        "width": 516,
+        "height": 107,
+        "png_bytes": 90029,
+        "webp_bytes": 58286,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/gold-scroll-with-blue-bellflowers-reference.png",
+            "webp": "webp/128/gold-scroll-with-blue-bellflowers-reference.webp",
+            "width": 128,
+            "height": 27,
+            "png_bytes": 8414,
+            "webp_bytes": 5866
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/gold-scroll-with-blue-bellflowers-reference.png",
+            "webp": "webp/256/gold-scroll-with-blue-bellflowers-reference.webp",
+            "width": 256,
+            "height": 53,
+            "png_bytes": 29312,
+            "webp_bytes": 18282
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 512,
+            "png": "png/512/gold-scroll-with-blue-bellflowers-reference.png",
+            "webp": "webp/512/gold-scroll-with-blue-bellflowers-reference.webp",
+            "width": 512,
+            "height": 106,
+            "png_bytes": 101152,
+            "webp_bytes": 60036
+          }
+        ]
+      }
+    },
+    "source_pattern": "Digital strip4 is a complete flourish: the left raised scroll cap, central rising/falling acanthus curve, five individually placed bellflowers, and right large curled cap do not form repeated equivalent phases. Hand-drawn strip3 is not used. Retain the entire digital decoration with no frame atlas; no seamless period is invented.",
+    "source_canvas": {
+      "width": 516,
+      "height": 107
+    },
+    "master_longest_dimension_cap": 516,
+    "asset_type": "decoration",
+    "has_transparency": false,
+    "usage_notes": [
+      "Use as a complete horizontal flourish with its distinct curled ends; the source does not establish a repeat. SVG uses source-fitted cubic contours and petal gradients.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "Opaque background is part of this image; it will cover the surface behind it.",
+      "PNG/WebP preserve the painted source appearance; SVG is an approximate trace. Check the reference crop and repeat audit for source limitations."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "painted-sprawling-floral-panel",
+    "svg": "svg/painted-sprawling-floral-panel.svg",
+    "viewbox": [
+      0,
+      0,
+      722,
+      229
+    ],
+    "png": "png/painted-sprawling-floral-panel.png",
+    "webp": "webp/painted-sprawling-floral-panel.webp",
+    "width": 722,
+    "height": 229,
+    "png_bytes": 393444,
+    "webp_bytes": 239168,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/painted-sprawling-floral-panel.png",
+        "webp": "webp/128/painted-sprawling-floral-panel.webp",
+        "width": 128,
+        "height": 41,
+        "png_bytes": 13845,
+        "webp_bytes": 11126
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/painted-sprawling-floral-panel.png",
+        "webp": "webp/256/painted-sprawling-floral-panel.webp",
+        "width": 256,
+        "height": 81,
+        "png_bytes": 53471,
+        "webp_bytes": 40438
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/painted-sprawling-floral-panel.png",
+        "webp": "webp/512/painted-sprawling-floral-panel.webp",
+        "width": 512,
+        "height": 162,
+        "png_bytes": 206812,
+        "webp_bytes": 132816
+      }
+    ],
+    "description": "A broad gold painted panel with irregular scrolling leaves, differently shaped red and blue flowers, small rosettes and matching red/gold/black rules above and below.",
+    "colors": [
+      "gold",
+      "green",
+      "red",
+      "blue",
+      "cream"
+    ],
+    "subjects": [
+      "leaf",
+      "flower",
+      "rosette",
+      "vine"
+    ],
+    "categories": [
+      "floral",
+      "botanical",
+      "scrollwork"
+    ],
+    "facing": "mixed",
+    "composition": "standalone",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "derivation": "source-crop-and-color-trace",
+    "reference": "painted-sheet",
+    "reference_design": 3,
+    "components": {
+      "reference_crop": {
+        "png": "png/painted-sprawling-floral-panel-reference.png",
+        "webp": "webp/painted-sprawling-floral-panel-reference.webp",
+        "width": 722,
+        "height": 232,
+        "png_bytes": 354736,
+        "webp_bytes": 244876,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/painted-sprawling-floral-panel-reference.png",
+            "webp": "webp/128/painted-sprawling-floral-panel-reference.webp",
+            "width": 128,
+            "height": 41,
+            "png_bytes": 13872,
+            "webp_bytes": 11156
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/painted-sprawling-floral-panel-reference.png",
+            "webp": "webp/256/painted-sprawling-floral-panel-reference.webp",
+            "width": 256,
+            "height": 82,
+            "png_bytes": 54111,
+            "webp_bytes": 41064
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 512,
+            "png": "png/512/painted-sprawling-floral-panel-reference.png",
+            "webp": "webp/512/painted-sprawling-floral-panel-reference.webp",
+            "width": 512,
+            "height": 165,
+            "png_bytes": 210759,
+            "webp_bytes": 136112
+          }
+        ]
+      }
+    },
+    "source_pattern": "The middle panel has individually arranged large flowers, small rosettes and crossing stems. Neither the red rosette nor the blue radial flower has an equivalent repeated copy establishing a full cycle. Preserve the entire decoration; no repeat or frame is inferred.",
+    "source_canvas": {
+      "width": 722,
+      "height": 229
+    },
+    "master_longest_dimension_cap": 722,
+    "asset_type": "decoration",
+    "has_transparency": false,
+    "usage_notes": [
+      "Irregular complete panel with matching repaired top/bottom rules; a seamless repeat has not been established.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "Opaque background is part of this image; it will cover the surface behind it.",
+      "PNG/WebP preserve the painted source appearance; SVG is an approximate trace. Check the reference crop and repeat audit for source limitations."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "painted-symmetric-leaf-and-flower-panel",
+    "svg": "svg/painted-symmetric-leaf-and-flower-panel.svg",
+    "viewbox": [
+      0,
+      0,
+      722,
+      155
+    ],
+    "png": "png/painted-symmetric-leaf-and-flower-panel.png",
+    "webp": "webp/painted-symmetric-leaf-and-flower-panel.webp",
+    "width": 722,
+    "height": 155,
+    "png_bytes": 272627,
+    "webp_bytes": 169010,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/painted-symmetric-leaf-and-flower-panel.png",
+        "webp": "webp/128/painted-symmetric-leaf-and-flower-panel.webp",
+        "width": 128,
+        "height": 27,
+        "png_bytes": 9041,
+        "webp_bytes": 7360
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/painted-symmetric-leaf-and-flower-panel.png",
+        "webp": "webp/256/painted-symmetric-leaf-and-flower-panel.webp",
+        "width": 256,
+        "height": 55,
+        "png_bytes": 36268,
+        "webp_bytes": 27766
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/painted-symmetric-leaf-and-flower-panel.png",
+        "webp": "webp/512/painted-symmetric-leaf-and-flower-panel.webp",
+        "width": 512,
+        "height": 110,
+        "png_bytes": 142208,
+        "webp_bytes": 93564
+      }
+    ],
+    "description": "A symmetric gold panel of red-edged leaves, flower rosettes, berries and pendant square trim.",
+    "colors": [
+      "gold",
+      "green",
+      "red",
+      "blue",
+      "cream"
+    ],
+    "subjects": [
+      "leaf",
+      "flower",
+      "berry"
+    ],
+    "categories": [
+      "floral",
+      "botanical",
+      "scrollwork"
+    ],
+    "facing": "mixed",
+    "composition": "standalone",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "derivation": "source-crop-and-color-trace",
+    "reference": "painted-sheet",
+    "reference_design": 1,
+    "components": {
+      "reference_crop": {
+        "png": "png/painted-symmetric-leaf-and-flower-panel-reference.png",
+        "webp": "webp/painted-symmetric-leaf-and-flower-panel-reference.webp",
+        "width": 722,
+        "height": 155,
+        "png_bytes": 242620,
+        "webp_bytes": 169010,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/painted-symmetric-leaf-and-flower-panel-reference.png",
+            "webp": "webp/128/painted-symmetric-leaf-and-flower-panel-reference.webp",
+            "width": 128,
+            "height": 27,
+            "png_bytes": 9041,
+            "webp_bytes": 7360
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/painted-symmetric-leaf-and-flower-panel-reference.png",
+            "webp": "webp/256/painted-symmetric-leaf-and-flower-panel-reference.webp",
+            "width": 256,
+            "height": 55,
+            "png_bytes": 36268,
+            "webp_bytes": 27766
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 512,
+            "png": "png/512/painted-symmetric-leaf-and-flower-panel-reference.png",
+            "webp": "webp/512/painted-symmetric-leaf-and-flower-panel-reference.webp",
+            "width": 512,
+            "height": 110,
+            "png_bytes": 142208,
+            "webp_bytes": 93564
+          }
+        ]
+      }
+    },
+    "source_pattern": "The central upright palmette is a unique mirror axis. The left and right flowers/leaves mirror one another; no complete identical cycle is shown twice. Retain the complete panel, including its pendant square trim, without a frame.",
+    "source_canvas": {
+      "width": 722,
+      "height": 155
+    },
+    "master_longest_dimension_cap": 722,
+    "asset_type": "decoration",
+    "has_transparency": false,
+    "usage_notes": [
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "Opaque background is part of this image; it will cover the surface behind it.",
+      "PNG/WebP preserve the painted source appearance; SVG is an approximate trace. Check the reference crop and repeat audit for source limitations."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "painted-three-band-floral-panel",
+    "svg": "svg/painted-three-band-floral-panel.svg",
+    "viewbox": [
+      0,
+      0,
+      722,
+      217
+    ],
+    "png": "png/painted-three-band-floral-panel.png",
+    "webp": "webp/painted-three-band-floral-panel.webp",
+    "width": 722,
+    "height": 217,
+    "png_bytes": 368266,
+    "webp_bytes": 237370,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/painted-three-band-floral-panel.png",
+        "webp": "webp/128/painted-three-band-floral-panel.webp",
+        "width": 128,
+        "height": 38,
+        "png_bytes": 12789,
+        "webp_bytes": 10686
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/painted-three-band-floral-panel.png",
+        "webp": "webp/256/painted-three-band-floral-panel.webp",
+        "width": 256,
+        "height": 77,
+        "png_bytes": 50409,
+        "webp_bytes": 39832
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/painted-three-band-floral-panel.png",
+        "webp": "webp/512/painted-three-band-floral-panel.webp",
+        "width": 512,
+        "height": 154,
+        "png_bytes": 193547,
+        "webp_bytes": 133796
+      }
+    ],
+    "description": "A composite painted border with a gold and red floral vine between narrow red bands of blue-green and gold scrolls.",
+    "colors": [
+      "gold",
+      "green",
+      "red",
+      "blue",
+      "cream"
+    ],
+    "subjects": [
+      "leaf",
+      "flower",
+      "vine",
+      "scroll"
+    ],
+    "categories": [
+      "floral",
+      "botanical",
+      "scrollwork"
+    ],
+    "facing": "mixed",
+    "composition": "standalone",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "derivation": "source-crop-and-color-trace",
+    "reference": "painted-sheet",
+    "reference_design": 5,
+    "components": {
+      "reference_crop": {
+        "png": "png/painted-three-band-floral-panel-reference.png",
+        "webp": "webp/painted-three-band-floral-panel-reference.webp",
+        "width": 722,
+        "height": 217,
+        "png_bytes": 326147,
+        "webp_bytes": 237370,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/painted-three-band-floral-panel-reference.png",
+            "webp": "webp/128/painted-three-band-floral-panel-reference.webp",
+            "width": 128,
+            "height": 38,
+            "png_bytes": 12789,
+            "webp_bytes": 10686
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/painted-three-band-floral-panel-reference.png",
+            "webp": "webp/256/painted-three-band-floral-panel-reference.webp",
+            "width": 256,
+            "height": 77,
+            "png_bytes": 50409,
+            "webp_bytes": 39832
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 512,
+            "png": "png/512/painted-three-band-floral-panel-reference.png",
+            "webp": "webp/512/painted-three-band-floral-panel-reference.webp",
+            "width": 512,
+            "height": 154,
+            "png_bytes": 193547,
+            "webp_bytes": 133796
+          }
+        ]
+      }
+    },
+    "source_pattern": "The narrow outer scroll bands repeat at approximately149px, while the central opposed flowers and leaf arrangements follow a different longer cycle. The supplied722px panel does not establish a complete phase shared by all three bands. Preserve the composite whole; no arbitrary combined repeat or frame is invented.",
+    "source_canvas": {
+      "width": 722,
+      "height": 217
+    },
+    "master_longest_dimension_cap": 722,
+    "asset_type": "decoration",
+    "has_transparency": false,
+    "usage_notes": [
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "Opaque background is part of this image; it will cover the surface behind it.",
+      "PNG/WebP preserve the painted source appearance; SVG is an approximate trace. Check the reference crop and repeat audit for source limitations."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "plate-11-acanthus-scroll",
+    "svg": "svg/plate-11-acanthus-scroll.svg",
+    "viewbox": [
+      0,
+      0,
+      271,
+      48
+    ],
+    "png": "png/plate-11-acanthus-scroll.png",
+    "webp": "webp/plate-11-acanthus-scroll.webp",
+    "width": 271,
+    "height": 48,
+    "png_bytes": 38240,
+    "webp_bytes": 26820,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/plate-11-acanthus-scroll.png",
+        "webp": "webp/128/plate-11-acanthus-scroll.webp",
+        "width": 128,
+        "height": 23,
+        "png_bytes": 9244,
+        "webp_bytes": 7246
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/plate-11-acanthus-scroll.png",
+        "webp": "webp/256/plate-11-acanthus-scroll.webp",
+        "width": 256,
+        "height": 45,
+        "png_bytes": 34101,
+        "webp_bytes": 24334
+      }
+    ],
+    "description": "A long gold stem curls through serrated green-and-cream acanthus leaves with red painted accents across a complete horizontal flourish.",
+    "colors": [
+      "red",
+      "green",
+      "cream",
+      "gold"
+    ],
+    "subjects": [
+      "acanthus",
+      "scroll"
+    ],
+    "categories": [
+      "botanical",
+      "scrollwork"
+    ],
+    "facing": "unclear",
+    "composition": "standalone",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "derivation": "source-crop-and-color-trace",
+    "reference": "numbered-ornament-plate",
+    "reference_design": 11,
+    "components": {
+      "reference_crop": {
+        "png": "png/plate-11-acanthus-scroll-reference.png",
+        "source_bounds": [
+          210,
+          372,
+          481,
+          420
+        ],
+        "derivation": "reference-crop",
+        "repeat_axis": "none",
+        "webp": "webp/plate-11-acanthus-scroll-reference.webp",
+        "width": 271,
+        "height": 48,
+        "png_bytes": 38240,
+        "webp_bytes": 26820,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/plate-11-acanthus-scroll-reference.png",
+            "webp": "webp/128/plate-11-acanthus-scroll-reference.webp",
+            "width": 128,
+            "height": 23,
+            "png_bytes": 9244,
+            "webp_bytes": 7246
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/plate-11-acanthus-scroll-reference.png",
+            "webp": "webp/256/plate-11-acanthus-scroll-reference.webp",
+            "width": 256,
+            "height": 45,
+            "png_bytes": 34101,
+            "webp_bytes": 24334
+          }
+        ]
+      }
+    },
+    "source_pattern": "Complete acanthus composition; no convincing full periodic unit in this supplied crop.",
+    "source_canvas": {
+      "width": 271,
+      "height": 48
+    },
+    "master_longest_dimension_cap": 271,
+    "asset_type": "decoration",
+    "has_transparency": false,
+    "usage_notes": [
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "Opaque background is part of this image; it will cover the surface behind it.",
+      "PNG/WebP preserve the painted source appearance; SVG is an approximate trace. Check the reference crop and repeat audit for source limitations."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "plate-16-stepped-corner",
+    "svg": "svg/plate-16-stepped-corner.svg",
+    "viewbox": [
+      0,
+      0,
+      55,
+      50
+    ],
+    "png": "png/plate-16-stepped-corner.png",
+    "webp": "webp/plate-16-stepped-corner.webp",
+    "width": 55,
+    "height": 50,
+    "png_bytes": 6849,
+    "webp_bytes": 5138,
+    "variants": [],
+    "description": "A complete angular stepped corner combines red, blue, green and gold nested right-angle bands.",
+    "colors": [
+      "red",
+      "blue",
+      "gold",
+      "green"
+    ],
+    "subjects": [
+      "corner"
+    ],
+    "categories": [
+      "geometric"
+    ],
+    "facing": "unclear",
+    "composition": "standalone",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "derivation": "source-crop-and-color-trace",
+    "reference": "numbered-ornament-plate",
+    "reference_design": 16,
+    "components": {
+      "reference_crop": {
+        "png": "png/plate-16-stepped-corner-reference.png",
+        "source_bounds": [
+          388,
+          579,
+          443,
+          629
+        ],
+        "derivation": "reference-crop",
+        "repeat_axis": "none",
+        "webp": "webp/plate-16-stepped-corner-reference.webp",
+        "width": 55,
+        "height": 50,
+        "png_bytes": 6849,
+        "webp_bytes": 5138,
+        "variants": []
+      }
+    },
+    "source_pattern": "Complete stepped corner motif. Its differently shaped edge profiles do not form a repeating strip.",
+    "source_canvas": {
+      "width": 55,
+      "height": 50
+    },
+    "master_longest_dimension_cap": 55,
+    "asset_type": "decoration",
+    "has_transparency": false,
+    "usage_notes": [
+      "Original corner-shaped composition; differently shaped ends do not form a repeating strip.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "Opaque background is part of this image; it will cover the surface behind it.",
+      "PNG/WebP preserve the painted source appearance; SVG is an approximate trace. Check the reference crop and repeat audit for source limitations."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "plate-36-greek-key",
+    "svg": "svg/plate-36-greek-key.svg",
+    "viewbox": [
+      0,
+      0,
+      121,
+      122
+    ],
+    "png": "png/plate-36-greek-key.png",
+    "webp": "webp/plate-36-greek-key.webp",
+    "width": 121,
+    "height": 122,
+    "png_bytes": 37293,
+    "webp_bytes": 25458,
+    "variants": [],
+    "description": "An original L-shaped manuscript corner contains nested red, green and blue Greek-key bands separated by fine cream-and-gold rules.",
+    "colors": [
+      "red",
+      "blue",
+      "green",
+      "cream",
+      "gold"
+    ],
+    "subjects": [
+      "greek",
+      "key"
+    ],
+    "categories": [
+      "geometric"
+    ],
+    "facing": "unclear",
+    "composition": "standalone",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "derivation": "source-crop-and-color-trace",
+    "reference": "numbered-ornament-plate",
+    "reference_design": 36,
+    "components": {
+      "reference_crop": {
+        "png": "png/plate-36-greek-key-reference.png",
+        "source_bounds": [
+          74,
+          89,
+          195,
+          211
+        ],
+        "derivation": "reference-crop",
+        "repeat_axis": "none",
+        "clip_regions": [
+          [
+            0,
+            0,
+            121,
+            57
+          ],
+          [
+            0,
+            0,
+            53,
+            122
+          ]
+        ],
+        "webp": "webp/plate-36-greek-key-reference.webp",
+        "width": 121,
+        "height": 122,
+        "png_bytes": 37293,
+        "webp_bytes": 25458,
+        "variants": []
+      }
+    },
+    "source_pattern": "Complete original L-shaped corner. The supplied arms do not contain a verified full combined repeat; retain it as a whole corner decoration.",
+    "source_canvas": {
+      "width": 121,
+      "height": 122
+    },
+    "master_longest_dimension_cap": 122,
+    "asset_type": "decoration",
+    "has_transparency": true,
+    "usage_notes": [
+      "Preserve the L-shaped cutout and its mask; the source arms have no verified complete combined repeat.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "PNG/WebP preserve the painted source appearance; SVG is an approximate trace. Check the reference crop and repeat audit for source limitations."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "plate-37-diamond-scroll",
+    "svg": "svg/plate-37-diamond-scroll.svg",
+    "viewbox": [
+      0,
+      0,
+      121,
+      122
+    ],
+    "png": "png/plate-37-diamond-scroll.png",
+    "webp": "webp/plate-37-diamond-scroll.webp",
+    "width": 121,
+    "height": 122,
+    "png_bytes": 35903,
+    "webp_bytes": 24076,
+    "variants": [],
+    "description": "An original L-shaped red manuscript corner combines a large diagonal blue-and-cream diamond with fine gold curls and small cream motifs.",
+    "colors": [
+      "red",
+      "blue",
+      "cream",
+      "gold"
+    ],
+    "subjects": [
+      "diamond",
+      "scroll"
+    ],
+    "categories": [
+      "geometric"
+    ],
+    "facing": "unclear",
+    "composition": "standalone",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "derivation": "source-crop-and-color-trace",
+    "reference": "numbered-ornament-plate",
+    "reference_design": 37,
+    "components": {
+      "reference_crop": {
+        "png": "png/plate-37-diamond-scroll-reference.png",
+        "source_bounds": [
+          496,
+          89,
+          617,
+          211
+        ],
+        "derivation": "reference-crop",
+        "repeat_axis": "none",
+        "clip_regions": [
+          [
+            0,
+            0,
+            121,
+            57
+          ],
+          [
+            68,
+            0,
+            121,
+            122
+          ]
+        ],
+        "webp": "webp/plate-37-diamond-scroll-reference.webp",
+        "width": 121,
+        "height": 122,
+        "png_bytes": 35903,
+        "webp_bytes": 24076,
+        "variants": []
+      }
+    },
+    "source_pattern": "Complete original L-shaped corner. The supplied arms do not contain a verified full combined repeat; retain it as a whole corner decoration.",
+    "source_canvas": {
+      "width": 121,
+      "height": 122
+    },
+    "master_longest_dimension_cap": 122,
+    "asset_type": "decoration",
+    "has_transparency": true,
+    "usage_notes": [
+      "Preserve the L-shaped cutout and its mask; the source arms have no verified complete combined repeat.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "PNG/WebP preserve the painted source appearance; SVG is an approximate trace. Check the reference crop and repeat audit for source limitations."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "spiral-ribbon-column",
+    "png": "png/spiral-ribbon-column.png",
+    "description": "A narrow gold and blue column wrapped in red and pale spiral ribbons, with tiny flowers inside and a leafy flourish above.",
+    "categories": [
+      "ribbons",
+      "floral",
+      "botanical"
+    ],
+    "subjects": [
+      "ribbon",
+      "flower",
+      "column",
+      "leaf"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gold",
+      "green",
+      "blue",
+      "red",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "reference": "five-painted-panels",
+    "source_canvas": {
+      "width": 500,
+      "height": 650
+    },
+    "master_longest_dimension_cap": 650,
+    "webp": "webp/spiral-ribbon-column.webp",
+    "width": 63,
+    "height": 650,
+    "png_bytes": 118948,
+    "webp_bytes": 97970,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/spiral-ribbon-column.png",
+        "webp": "webp/128/spiral-ribbon-column.webp",
+        "width": 12,
+        "height": 128,
+        "png_bytes": 5470,
+        "webp_bytes": 5110
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/spiral-ribbon-column.png",
+        "webp": "webp/256/spiral-ribbon-column.webp",
+        "width": 25,
+        "height": 256,
+        "png_bytes": 20940,
+        "webp_bytes": 19528
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/spiral-ribbon-column.png",
+        "webp": "webp/512/spiral-ribbon-column.webp",
+        "width": 50,
+        "height": 512,
+        "png_bytes": 77415,
+        "webp_bytes": 65738
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "derivation": "ai-assisted-extraction",
+    "components": {},
+    "asset_type": "decoration",
+    "has_transparency": true,
+    "usage_notes": [
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  }
+]
