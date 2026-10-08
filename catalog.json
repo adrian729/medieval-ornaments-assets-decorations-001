@@ -1,5 +1,112 @@
 [
   {
+    "name": "aldegrever-paired-tendrils",
+    "description": "A horizontal engraved panel with paired leafy tendrils curling outward from a central stem, dark crosshatching and an AG monogram.",
+    "categories": [
+      "botanical",
+      "scrollwork"
+    ],
+    "subjects": [
+      "leaf",
+      "tendril",
+      "scroll",
+      "monogram"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "black",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "png": "png/aldegrever-paired-tendrils.png",
+    "webp": "webp/aldegrever-paired-tendrils.webp",
+    "reference": "met-422674",
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "The Metropolitan Museum of Art",
+      "title": "Horizontal Panel with Two Tendrils Sprouting from the Center, Ending in Volutes",
+      "object_identifier": "26.105.2",
+      "date": "ca. 1529",
+      "record_url": "https://www.metmuseum.org/art/collection/search/422674",
+      "artist": "Heinrich Aldegrever",
+      "image_rights": "Public Domain",
+      "rights_url": "https://www.metmuseum.org/art/collection/search/422674",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-additions.json",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP836788.jpg",
+      "source_sha256": "dd571bc182e37d863ecd09e7a2774807d77a88a04c5cb13650ff437542f9b53b"
+    },
+    "source_canvas": {
+      "width": 2878,
+      "height": 1067
+    },
+    "master_longest_dimension_cap": 1800,
+    "usage_notes": [
+      "Extracted from the historical object linked in provenance; see the source and exact edit prompt in historical-additions.json.",
+      "The original panel ground is intentionally retained; only the surrounding page was removed.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "width": 1800,
+    "height": 599,
+    "png_bytes": 2617967,
+    "webp_bytes": 1647020,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/aldegrever-paired-tendrils.png",
+        "webp": "webp/128/aldegrever-paired-tendrils.webp",
+        "width": 128,
+        "height": 43,
+        "png_bytes": 16608,
+        "webp_bytes": 10280
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/aldegrever-paired-tendrils.png",
+        "webp": "webp/256/aldegrever-paired-tendrils.webp",
+        "width": 256,
+        "height": 85,
+        "png_bytes": 62687,
+        "webp_bytes": 38856
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/aldegrever-paired-tendrils.png",
+        "webp": "webp/512/aldegrever-paired-tendrils.webp",
+        "width": 512,
+        "height": 170,
+        "png_bytes": 251035,
+        "webp_bytes": 151480
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/aldegrever-paired-tendrils.png",
+        "webp": "webp/768/aldegrever-paired-tendrils.webp",
+        "width": 768,
+        "height": 256,
+        "png_bytes": 553175,
+        "webp_bytes": 338028
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "asset_type": "decoration",
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
     "name": "blue-acanthus-and-seed-head-panel",
     "svg": "svg/blue-acanthus-and-seed-head-panel.svg",
     "viewbox": [
@@ -584,6 +691,340 @@
     ],
     "formats": [
       "svg",
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "hoefnagel-strapwork-frame",
+    "description": "An intricate brown-black penwork frame with curled strapwork, small floral details, hatching and fine leafy vines around its perimeter.",
+    "categories": [
+      "ribbons",
+      "scrollwork",
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "strapwork",
+      "frame",
+      "vine",
+      "leaf",
+      "flower"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "png": "png/hoefnagel-strapwork-frame.png",
+    "webp": "webp/hoefnagel-strapwork-frame.webp",
+    "reference": "getty-ms20-107",
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "J. Paul Getty Museum",
+      "title": "French Rose and Apple",
+      "object_identifier": "Ms. 20 (86.MV.527), fol. 107",
+      "date": "Script 1561-1562; illumination 1591-1596",
+      "record_url": "https://www.getty.edu/news/to-hold-nature-in-the-hand-revealing-the-wonders-of-the-mira-monumenta-calligraphiae/",
+      "artist": "Georg Bocskay, script; Joris Hoefnagel, illumination",
+      "image_rights": "CC0 1.0",
+      "rights_url": "https://www.getty.edu/projects/open-content-program/",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-additions.json",
+      "image_url": "https://media.getty.edu/iiif/image/c87fb882-b2e5-4d43-b225-c90f00569be8/full/full/0/default.jpg",
+      "source_sha256": "4a9ac6e7d8bfc6f1ff31b9a83b5ead4ec79afb74e3b51b4fde9fa28fd4a69700"
+    },
+    "source_canvas": {
+      "width": 5877,
+      "height": 8212
+    },
+    "master_longest_dimension_cap": 1800,
+    "usage_notes": [
+      "Extracted from the historical object linked in provenance; see the source and exact edit prompt in historical-additions.json.",
+      "Fixed complete frame with a transparent center. Resize proportionally as one image; this has no tile or adaptable frame atlas.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "width": 1420,
+    "height": 1058,
+    "png_bytes": 2769350,
+    "webp_bytes": 2049320,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/hoefnagel-strapwork-frame.png",
+        "webp": "webp/128/hoefnagel-strapwork-frame.webp",
+        "width": 128,
+        "height": 95,
+        "png_bytes": 29632,
+        "webp_bytes": 21512
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/hoefnagel-strapwork-frame.png",
+        "webp": "webp/256/hoefnagel-strapwork-frame.webp",
+        "width": 256,
+        "height": 191,
+        "png_bytes": 110243,
+        "webp_bytes": 78766
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/hoefnagel-strapwork-frame.png",
+        "webp": "webp/512/hoefnagel-strapwork-frame.webp",
+        "width": 512,
+        "height": 381,
+        "png_bytes": 415973,
+        "webp_bytes": 286002
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/hoefnagel-strapwork-frame.png",
+        "webp": "webp/768/hoefnagel-strapwork-frame.webp",
+        "width": 768,
+        "height": 572,
+        "png_bytes": 898214,
+        "webp_bytes": 632024
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "asset_type": "decoration",
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "hopfer-thistle-panel",
+    "description": "A vertical engraved panel of curling thistle stems, fantastic birds, pale foliage, dark hatching and a small mask near the base.",
+    "categories": [
+      "botanical",
+      "floral",
+      "fantasy",
+      "animals",
+      "scrollwork"
+    ],
+    "subjects": [
+      "thistle",
+      "bird",
+      "scroll",
+      "mask",
+      "monogram"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "composition": "single-ornament",
+    "png": "png/hopfer-thistle-panel.png",
+    "webp": "webp/hopfer-thistle-panel.webp",
+    "reference": "met-373115",
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "The Metropolitan Museum of Art",
+      "title": "Ornamental Fillet with Thistle Motifs",
+      "object_identifier": "24.68.2",
+      "date": "1510-1528",
+      "record_url": "https://www.metmuseum.org/art/collection/search/373115",
+      "artist": "Daniel Hopfer",
+      "image_rights": "Public Domain",
+      "rights_url": "https://www.metmuseum.org/art/collection/search/373115",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-additions.json",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/MM47469.jpg",
+      "source_sha256": "5358f3001b24cd7b2e4a87a420be53f79ccc42a9655d18be6e94d5a684d40d3a"
+    },
+    "source_canvas": {
+      "width": 2833,
+      "height": 4000
+    },
+    "master_longest_dimension_cap": 1800,
+    "usage_notes": [
+      "Extracted from the historical object linked in provenance; see the source and exact edit prompt in historical-additions.json.",
+      "The original panel ground is intentionally retained; only the surrounding page was removed.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "width": 971,
+    "height": 1421,
+    "png_bytes": 3642959,
+    "webp_bytes": 2129350,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/hopfer-thistle-panel.png",
+        "webp": "webp/128/hopfer-thistle-panel.webp",
+        "width": 87,
+        "height": 128,
+        "png_bytes": 35464,
+        "webp_bytes": 17508
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/hopfer-thistle-panel.png",
+        "webp": "webp/256/hopfer-thistle-panel.webp",
+        "width": 175,
+        "height": 256,
+        "png_bytes": 133440,
+        "webp_bytes": 69742
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/hopfer-thistle-panel.png",
+        "webp": "webp/512/hopfer-thistle-panel.webp",
+        "width": 350,
+        "height": 512,
+        "png_bytes": 505147,
+        "webp_bytes": 273156
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/hopfer-thistle-panel.png",
+        "webp": "webp/768/hopfer-thistle-panel.webp",
+        "width": 525,
+        "height": 768,
+        "png_bytes": 1138589,
+        "webp_bytes": 624048
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "asset_type": "decoration",
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "isabella-gold-floral-frame",
+    "description": "A gold manuscript frame with an arched opening, scattered painted flowers, butterflies, a small bird and pale curled foliage.",
+    "categories": [
+      "floral",
+      "botanical",
+      "animals"
+    ],
+    "subjects": [
+      "flower",
+      "butterfly",
+      "bird",
+      "acanthus",
+      "frame"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gold",
+      "pink",
+      "blue",
+      "green",
+      "white",
+      "gray"
+    ],
+    "composition": "single-ornament",
+    "png": "png/isabella-gold-floral-frame.png",
+    "webp": "webp/isabella-gold-floral-frame.webp",
+    "reference": "cleveland-1963-256-80-b",
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Floral border surrounding Virgin and Christ with Angels",
+      "object_identifier": "1963.256.80.b; Hours of Queen Isabella, fol. 80v",
+      "date": "ca. 1500",
+      "record_url": "https://www.clevelandart.org/art/1963.256.80.b",
+      "artist": "Master of the First Prayerbook of Maximillian and associates",
+      "image_rights": "CC0 1.0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-additions.json",
+      "image_url": "https://archive.org/download/clevelandart-1963.256.80.b-hours-of-queen-isabe/1963.256.80.b_full.jpg",
+      "source_sha256": "74b406120e8c2872fddd48d75be535e24f479ea4b15b07a233855a072f229472"
+    },
+    "source_canvas": {
+      "width": 3802,
+      "height": 5545
+    },
+    "master_longest_dimension_cap": 1600,
+    "usage_notes": [
+      "Extracted from the historical object linked in provenance; see the source and exact edit prompt in historical-additions.json.",
+      "Fixed complete frame with a transparent center. Resize proportionally as one image; this has no tile or adaptable frame atlas.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "width": 909,
+    "height": 1418,
+    "png_bytes": 1882426,
+    "webp_bytes": 1398436,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/isabella-gold-floral-frame.png",
+        "webp": "webp/128/isabella-gold-floral-frame.webp",
+        "width": 82,
+        "height": 128,
+        "png_bytes": 19474,
+        "webp_bytes": 17022
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/isabella-gold-floral-frame.png",
+        "webp": "webp/256/isabella-gold-floral-frame.webp",
+        "width": 164,
+        "height": 256,
+        "png_bytes": 71550,
+        "webp_bytes": 58560
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/isabella-gold-floral-frame.png",
+        "webp": "webp/512/isabella-gold-floral-frame.webp",
+        "width": 328,
+        "height": 512,
+        "png_bytes": 263989,
+        "webp_bytes": 206648
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/isabella-gold-floral-frame.png",
+        "webp": "webp/768/isabella-gold-floral-frame.webp",
+        "width": 492,
+        "height": 768,
+        "png_bytes": 581128,
+        "webp_bytes": 447284
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "asset_type": "decoration",
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
       "webp",
       "png"
     ]
@@ -1379,6 +1820,618 @@
     ],
     "formats": [
       "svg",
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "rosselli-foliate-strip",
+    "description": "A tall Renaissance strip of mirrored leafy scrolls, floral terminals and curling stems.",
+    "categories": [
+      "botanical",
+      "scrollwork",
+      "floral"
+    ],
+    "subjects": [
+      "leaf",
+      "scroll",
+      "flower",
+      "finial"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "gray",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "png": "png/rosselli-foliate-strip.png",
+    "webp": "webp/rosselli-foliate-strip.webp",
+    "reference": "met-356741",
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "The Metropolitan Museum of Art",
+      "title": "Sheet of border segments: vertical floral ornament, horizontal frieze, four corners",
+      "object_identifier": "29.16.3",
+      "date": "1490-1500",
+      "record_url": "https://www.metmuseum.org/art/collection/search/356741",
+      "artist": "Francesco Rosselli",
+      "image_rights": "Public Domain",
+      "rights_url": "https://www.metmuseum.org/art/collection/search/356741",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-additions.json",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP833949.jpg",
+      "source_sha256": "98d28d964a4d99da22c8195476ad3c632a032b850f3ee3efe3ef019515dd88f8"
+    },
+    "source_canvas": {
+      "width": 2286,
+      "height": 3389
+    },
+    "master_longest_dimension_cap": 1400,
+    "usage_notes": [
+      "Extracted from the historical object linked in provenance; see the source and exact edit prompt in historical-additions.json.",
+      "Pale engraved motif interiors are retained; openings and the surrounding sheet are transparent.",
+      "Whole historical strip with its original end phases. A seamless join has not been established; do not use as a repeating background.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "width": 274,
+    "height": 1400,
+    "png_bytes": 976394,
+    "webp_bytes": 693510,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/rosselli-foliate-strip.png",
+        "webp": "webp/128/rosselli-foliate-strip.webp",
+        "width": 25,
+        "height": 128,
+        "png_bytes": 11700,
+        "webp_bytes": 7990
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/rosselli-foliate-strip.png",
+        "webp": "webp/256/rosselli-foliate-strip.webp",
+        "width": 50,
+        "height": 256,
+        "png_bytes": 44184,
+        "webp_bytes": 29032
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/rosselli-foliate-strip.png",
+        "webp": "webp/512/rosselli-foliate-strip.webp",
+        "width": 100,
+        "height": 512,
+        "png_bytes": 158830,
+        "webp_bytes": 106272
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/rosselli-foliate-strip.png",
+        "webp": "webp/768/rosselli-foliate-strip.webp",
+        "width": 150,
+        "height": 768,
+        "png_bytes": 335102,
+        "webp_bytes": 228542
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "asset_type": "decoration",
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "rosselli-mask-strip",
+    "description": "A tall Renaissance ornament strip with alternating foliate scrolls and small human masks.",
+    "categories": [
+      "botanical",
+      "scrollwork",
+      "floral",
+      "humans"
+    ],
+    "subjects": [
+      "leaf",
+      "scroll",
+      "mask"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "gray",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "png": "png/rosselli-mask-strip.png",
+    "webp": "webp/rosselli-mask-strip.webp",
+    "reference": "met-356741",
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "The Metropolitan Museum of Art",
+      "title": "Sheet of border segments: vertical floral ornament, horizontal frieze, four corners",
+      "object_identifier": "29.16.3",
+      "date": "1490-1500",
+      "record_url": "https://www.metmuseum.org/art/collection/search/356741",
+      "artist": "Francesco Rosselli",
+      "image_rights": "Public Domain",
+      "rights_url": "https://www.metmuseum.org/art/collection/search/356741",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-additions.json",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP833949.jpg",
+      "source_sha256": "98d28d964a4d99da22c8195476ad3c632a032b850f3ee3efe3ef019515dd88f8"
+    },
+    "source_canvas": {
+      "width": 2286,
+      "height": 3389
+    },
+    "master_longest_dimension_cap": 1400,
+    "usage_notes": [
+      "Extracted from the historical object linked in provenance; see the source and exact edit prompt in historical-additions.json.",
+      "Pale engraved motif interiors are retained; openings and the surrounding sheet are transparent.",
+      "Whole historical strip with its original end phases. A seamless join has not been established; do not use as a repeating background.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "width": 270,
+    "height": 1400,
+    "png_bytes": 998899,
+    "webp_bytes": 685338,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/rosselli-mask-strip.png",
+        "webp": "webp/128/rosselli-mask-strip.webp",
+        "width": 25,
+        "height": 128,
+        "png_bytes": 11081,
+        "webp_bytes": 7630
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/rosselli-mask-strip.png",
+        "webp": "webp/256/rosselli-mask-strip.webp",
+        "width": 49,
+        "height": 256,
+        "png_bytes": 41644,
+        "webp_bytes": 27526
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/rosselli-mask-strip.png",
+        "webp": "webp/512/rosselli-mask-strip.webp",
+        "width": 99,
+        "height": 512,
+        "png_bytes": 157177,
+        "webp_bytes": 108136
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/rosselli-mask-strip.png",
+        "webp": "webp/768/rosselli-mask-strip.webp",
+        "width": 148,
+        "height": 768,
+        "png_bytes": 336031,
+        "webp_bytes": 239636
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "asset_type": "decoration",
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "rosselli-roundel-bottom",
+    "description": "A circular Renaissance medallion with a central rosette, curled foliate lobes and a patterned outer ring.",
+    "categories": [
+      "botanical",
+      "scrollwork",
+      "floral"
+    ],
+    "subjects": [
+      "rosette",
+      "scroll",
+      "medallion"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "gray",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "png": "png/rosselli-roundel-bottom.png",
+    "webp": "webp/rosselli-roundel-bottom.webp",
+    "reference": "met-356741",
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "The Metropolitan Museum of Art",
+      "title": "Sheet of border segments: vertical floral ornament, horizontal frieze, four corners",
+      "object_identifier": "29.16.3",
+      "date": "1490-1500",
+      "record_url": "https://www.metmuseum.org/art/collection/search/356741",
+      "artist": "Francesco Rosselli",
+      "image_rights": "Public Domain",
+      "rights_url": "https://www.metmuseum.org/art/collection/search/356741",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-additions.json",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP833949.jpg",
+      "source_sha256": "98d28d964a4d99da22c8195476ad3c632a032b850f3ee3efe3ef019515dd88f8"
+    },
+    "source_canvas": {
+      "width": 2286,
+      "height": 3389
+    },
+    "master_longest_dimension_cap": 620,
+    "usage_notes": [
+      "Extracted from the historical object linked in provenance; see the source and exact edit prompt in historical-additions.json.",
+      "Pale engraved motif interiors are retained; openings and the surrounding sheet are transparent.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "width": 620,
+    "height": 603,
+    "png_bytes": 750372,
+    "webp_bytes": 481222,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/rosselli-roundel-bottom.png",
+        "webp": "webp/128/rosselli-roundel-bottom.webp",
+        "width": 128,
+        "height": 124,
+        "png_bytes": 41218,
+        "webp_bytes": 25130
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/rosselli-roundel-bottom.png",
+        "webp": "webp/256/rosselli-roundel-bottom.webp",
+        "width": 256,
+        "height": 249,
+        "png_bytes": 148922,
+        "webp_bytes": 95478
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/rosselli-roundel-bottom.png",
+        "webp": "webp/512/rosselli-roundel-bottom.webp",
+        "width": 512,
+        "height": 498,
+        "png_bytes": 531783,
+        "webp_bytes": 342508
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "asset_type": "decoration",
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "rosselli-roundel-second",
+    "description": "A circular Renaissance medallion with a radiating central rosette and four foliate scroll groups inside a patterned rim.",
+    "categories": [
+      "botanical",
+      "scrollwork",
+      "floral"
+    ],
+    "subjects": [
+      "rosette",
+      "scroll",
+      "medallion"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "gray",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "png": "png/rosselli-roundel-second.png",
+    "webp": "webp/rosselli-roundel-second.webp",
+    "reference": "met-356741",
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "The Metropolitan Museum of Art",
+      "title": "Sheet of border segments: vertical floral ornament, horizontal frieze, four corners",
+      "object_identifier": "29.16.3",
+      "date": "1490-1500",
+      "record_url": "https://www.metmuseum.org/art/collection/search/356741",
+      "artist": "Francesco Rosselli",
+      "image_rights": "Public Domain",
+      "rights_url": "https://www.metmuseum.org/art/collection/search/356741",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-additions.json",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP833949.jpg",
+      "source_sha256": "98d28d964a4d99da22c8195476ad3c632a032b850f3ee3efe3ef019515dd88f8"
+    },
+    "source_canvas": {
+      "width": 2286,
+      "height": 3389
+    },
+    "master_longest_dimension_cap": 620,
+    "usage_notes": [
+      "Extracted from the historical object linked in provenance; see the source and exact edit prompt in historical-additions.json.",
+      "Pale engraved motif interiors are retained; openings and the surrounding sheet are transparent.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "width": 620,
+    "height": 614,
+    "png_bytes": 767050,
+    "webp_bytes": 486680,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/rosselli-roundel-second.png",
+        "webp": "webp/128/rosselli-roundel-second.webp",
+        "width": 128,
+        "height": 127,
+        "png_bytes": 43700,
+        "webp_bytes": 27228
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/rosselli-roundel-second.png",
+        "webp": "webp/256/rosselli-roundel-second.webp",
+        "width": 256,
+        "height": 254,
+        "png_bytes": 153097,
+        "webp_bytes": 100970
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/rosselli-roundel-second.png",
+        "webp": "webp/512/rosselli-roundel-second.webp",
+        "width": 512,
+        "height": 507,
+        "png_bytes": 542783,
+        "webp_bytes": 347360
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "asset_type": "decoration",
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "rosselli-roundel-third",
+    "description": "A circular Renaissance medallion with a central rosette, scrolling leaves and opposing cup-like terminals.",
+    "categories": [
+      "botanical",
+      "scrollwork",
+      "floral"
+    ],
+    "subjects": [
+      "rosette",
+      "scroll",
+      "medallion"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "gray",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "png": "png/rosselli-roundel-third.png",
+    "webp": "webp/rosselli-roundel-third.webp",
+    "reference": "met-356741",
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "The Metropolitan Museum of Art",
+      "title": "Sheet of border segments: vertical floral ornament, horizontal frieze, four corners",
+      "object_identifier": "29.16.3",
+      "date": "1490-1500",
+      "record_url": "https://www.metmuseum.org/art/collection/search/356741",
+      "artist": "Francesco Rosselli",
+      "image_rights": "Public Domain",
+      "rights_url": "https://www.metmuseum.org/art/collection/search/356741",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-additions.json",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP833949.jpg",
+      "source_sha256": "98d28d964a4d99da22c8195476ad3c632a032b850f3ee3efe3ef019515dd88f8"
+    },
+    "source_canvas": {
+      "width": 2286,
+      "height": 3389
+    },
+    "master_longest_dimension_cap": 620,
+    "usage_notes": [
+      "Extracted from the historical object linked in provenance; see the source and exact edit prompt in historical-additions.json.",
+      "Pale engraved motif interiors are retained; openings and the surrounding sheet are transparent.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "width": 620,
+    "height": 613,
+    "png_bytes": 788827,
+    "webp_bytes": 508420,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/rosselli-roundel-third.png",
+        "webp": "webp/128/rosselli-roundel-third.webp",
+        "width": 128,
+        "height": 127,
+        "png_bytes": 44116,
+        "webp_bytes": 27756
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/rosselli-roundel-third.png",
+        "webp": "webp/256/rosselli-roundel-third.webp",
+        "width": 256,
+        "height": 253,
+        "png_bytes": 155148,
+        "webp_bytes": 101988
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/rosselli-roundel-third.png",
+        "webp": "webp/512/rosselli-roundel-third.webp",
+        "width": 512,
+        "height": 506,
+        "png_bytes": 556667,
+        "webp_bytes": 360714
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "asset_type": "decoration",
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "rosselli-roundel-top",
+    "description": "A circular Renaissance medallion with a central rosette, scrolls, paired curled motifs and a scalloped ornamental rim.",
+    "categories": [
+      "botanical",
+      "scrollwork",
+      "floral"
+    ],
+    "subjects": [
+      "rosette",
+      "scroll",
+      "medallion"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "gray",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "png": "png/rosselli-roundel-top.png",
+    "webp": "webp/rosselli-roundel-top.webp",
+    "reference": "met-356741",
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "The Metropolitan Museum of Art",
+      "title": "Sheet of border segments: vertical floral ornament, horizontal frieze, four corners",
+      "object_identifier": "29.16.3",
+      "date": "1490-1500",
+      "record_url": "https://www.metmuseum.org/art/collection/search/356741",
+      "artist": "Francesco Rosselli",
+      "image_rights": "Public Domain",
+      "rights_url": "https://www.metmuseum.org/art/collection/search/356741",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-additions.json",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP833949.jpg",
+      "source_sha256": "98d28d964a4d99da22c8195476ad3c632a032b850f3ee3efe3ef019515dd88f8"
+    },
+    "source_canvas": {
+      "width": 2286,
+      "height": 3389
+    },
+    "master_longest_dimension_cap": 620,
+    "usage_notes": [
+      "Extracted from the historical object linked in provenance; see the source and exact edit prompt in historical-additions.json.",
+      "Pale engraved motif interiors are retained; openings and the surrounding sheet are transparent.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "width": 620,
+    "height": 612,
+    "png_bytes": 791487,
+    "webp_bytes": 507656,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/rosselli-roundel-top.png",
+        "webp": "webp/128/rosselli-roundel-top.webp",
+        "width": 128,
+        "height": 126,
+        "png_bytes": 43968,
+        "webp_bytes": 28064
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/rosselli-roundel-top.png",
+        "webp": "webp/256/rosselli-roundel-top.webp",
+        "width": 256,
+        "height": 253,
+        "png_bytes": 156201,
+        "webp_bytes": 103386
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/rosselli-roundel-top.png",
+        "webp": "webp/512/rosselli-roundel-top.webp",
+        "width": 512,
+        "height": 505,
+        "png_bytes": 560295,
+        "webp_bytes": 363926
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "asset_type": "decoration",
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
       "webp",
       "png"
     ]
