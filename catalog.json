@@ -756,7 +756,7 @@
     "composition": "single-ornament",
     "usage_notes": [
       "User-authored artwork; native canvas, transparency and pixels are retained. Import details are recorded in authored-additions.json.",
-      "AI-generated component supplied with the gold divider compositions. The example composes fixed-proportion terminals and centers with two flexible CSS rules; color filters are display effects.",
+      "AI-generated component supplied with the gold divider compositions. The example uses a continuous CSS rule beneath fixed-proportion terminals and centers; color filters are display effects.",
       "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
     ],
     "png": "png/gold-cinquefoil-divider-center.png",
@@ -842,7 +842,7 @@
     "composition": "single-ornament",
     "usage_notes": [
       "User-authored artwork; native canvas, transparency and pixels are retained. Import details are recorded in authored-additions.json.",
-      "AI-generated component supplied with the gold divider compositions. The example composes fixed-proportion terminals and centers with two flexible CSS rules; color filters are display effects.",
+      "AI-generated component supplied with the gold divider compositions. The example uses a continuous CSS rule beneath fixed-proportion terminals and centers; color filters are display effects.",
       "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
     ],
     "png": "png/gold-cinquefoil-divider-end.png",
@@ -930,7 +930,7 @@
     "composition": "single-ornament",
     "usage_notes": [
       "User-authored artwork; native canvas, transparency and pixels are retained. Import details are recorded in authored-additions.json.",
-      "AI-generated component supplied with the gold divider compositions. The example composes fixed-proportion terminals and centers with two flexible CSS rules; color filters are display effects.",
+      "AI-generated component supplied with the gold divider compositions. The example uses a continuous CSS rule beneath fixed-proportion terminals and centers; color filters are display effects.",
       "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
     ],
     "png": "png/gold-lozenge-divider-center.png",
@@ -1018,7 +1018,7 @@
     "composition": "single-ornament",
     "usage_notes": [
       "User-authored artwork; native canvas, transparency and pixels are retained. Import details are recorded in authored-additions.json.",
-      "AI-generated component supplied with the gold divider compositions. The example composes fixed-proportion terminals and centers with two flexible CSS rules; color filters are display effects.",
+      "AI-generated component supplied with the gold divider compositions. The example uses a continuous CSS rule beneath fixed-proportion terminals and centers; color filters are display effects.",
       "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
     ],
     "png": "png/gold-lozenge-divider-end.png",
